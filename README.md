@@ -48,5 +48,5 @@
   - Cars - [GitHub](https://github.com/IlyaRodkin/Storage)  
 <i>(Room, SQLiteOpenHelper)</i>
   - Pomodoro Timer - [Github](https://github.com/IlyaRodkin/pomodoro)  
-<i>(Coroutines, Foreground Service, Custom View)</i>
+<i>(Coroutines, Foreground Service, Custom View)</i>  
   -...and more [here](https://github.com/IlyaRodkin?tab=repositories)

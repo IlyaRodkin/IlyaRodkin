@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=ilyarodkin&label=Profile%20views&color=0e75b6&style=flat" alt="visitors" />
-
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1613365478/12953/meow_pink_bongo_wave.gif?1613365478" width="35" /> Hello there, I'm Ilia!</h1>
 
 <img align="right" src="github-metrics.svg" alt="metrics" />

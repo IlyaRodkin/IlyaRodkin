@@ -9,7 +9,7 @@
   I study in **BSUIR**👨‍🎓    
   **Faculty of Information Technologies and Control** 🏛  
   my specialty - **Information Technologies in Automated Systems** 🎓   
-  **3rd year** student. Full-time education  
+  **3rd year** student.  
   I am a self-motivated person with great enthusiasm for learning and strong organizational and social skills. I'm constantly learning and applying new technologies and trying to improve myself not to get behind in this rapidly changing industry
 </p>
 

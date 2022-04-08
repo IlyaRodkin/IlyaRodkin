@@ -3,7 +3,7 @@
 <img align="right" src="metrics.svg" alt="metrics" />
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1613284582/12797/meow_coffee.png?1613284582" width="30" /> About me:</h2>
-<p>
+<p align="left">
   
   I am **20** years old student from 🇧🇾 **Belarus, Minsk**.  
   I study in **BSUIR**👨‍🎓    
@@ -32,7 +32,7 @@
 </p>
 
 <h2>🤝 My contacts:</h2>
-<p align="center" >
+<p align="left" >
   <a href="mailto:ilia.rodkin@gmail.com" target="blank"><img src="email-round-color.svg" alt="ilia.rodkin@gmail.com" width="60" height="50" /></a>
   <a href="https://t.me/iliaRodkin" target="blank"><img src="telegram-round-color.svg" alt="telegram" width="60" height="50" /></a>
 </p>

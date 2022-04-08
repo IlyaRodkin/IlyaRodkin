@@ -27,8 +27,7 @@
   <a href="https://www.java.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="50" /></a>
   <a href="https://gradle.org" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="gradle" height="50" /></a>
   <a href="https://www.sqlite.org" target="blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="50" /></a>
-  <a href="https://firebase.google.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" height="50" /></a>![image](https://user-images.githubusercontent.com/65172413/162474909-3f8a1609-754d-4cb5-ac76-d9e24fe5a316.png)
-
+  <a href="https://firebase.google.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" height="50" /></a>
   <a href="https://developer.android.com" target="blank"><img src="https://developer.android.com/images/logos/android.svg" alt="android" height="50" /></a>
   <a href="https://developer.android.com/jetpack/compose" target="blank"><img src="https://miro.medium.com/max/1400/1*YMO9lbZTAkvLVuASXFbRIA.png" alt="jetpack compose" height="50" /></a>
   <a href="https://developer.android.com/jetpack" target="blank"><img src="https://avatars.githubusercontent.com/u/6955922?s=200&v=4" alt="android jetpack" height="50" /></a>

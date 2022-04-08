@@ -22,7 +22,7 @@
 </p>
 
 <h2>🛠️ Used languages & tools:</h2>
-<p align="center" >
+<p align="left" >
   <a href="https://kotlinlang.org" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="60" height="50" /></a>
   <a href="https://www.java.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="50" /></a>
   <a href="https://gradle.org" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="gradle" width="60" height="50" /></a>

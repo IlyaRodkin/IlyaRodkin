@@ -23,12 +23,16 @@
 
 <h2>🛠️ Used languages & tools:</h2>
 <p align="left" >
-  <a href="https://kotlinlang.org" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="60" height="50" /></a>
-  <a href="https://www.java.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="50" /></a>
-  <a href="https://gradle.org" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="gradle" width="60" height="50" /></a>
-  <a href="https://www.sqlite.org" target="blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="50" /></a>
-  <a href="https://firebase.google.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="60" height="50" /></a>
-  <a href="https://developer.android.com" target="blank"><img src="https://developer.android.com/images/logos/android.svg" alt="android" width="60" height="50" /></a>
+  <a href="https://kotlinlang.org" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin"  height="50" /></a>
+  <a href="https://www.java.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="50" /></a>
+  <a href="https://gradle.org" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="gradle" height="50" /></a>
+  <a href="https://www.sqlite.org" target="blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="50" /></a>
+  <a href="https://firebase.google.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" height="50" /></a>
+  <a href="https://developer.android.com" target="blank"><img src="https://developer.android.com/images/logos/android.svg" alt="android" height="50" /></a>
+  <a href="https://asana.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Asana_logo.svg/798px-Asana_logo.svg.png" alt="asana" height="50" /></a>
+  <a href="https://developer.android.com/jetpack/compose" target="blank"><img src="https://miro.medium.com/max/1400/1*YMO9lbZTAkvLVuASXFbRIA.png" alt="jetpack compose" height="50" /></a>
+  <a href="https://developer.android.com/jetpack" target="blank"><img src="https://avatars.githubusercontent.com/u/6955922?s=200&v=4" alt="android jetpack" height="50" /></a>
+  <a href="https://coil-kt.github.io/coil/" target="blank"><img src="https://coil-kt.github.io/coil/logo.svg" alt="coil" height="50" /></a>
 </p>
 
 <h2>🤝 My contacts:</h2>
